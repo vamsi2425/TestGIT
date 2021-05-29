@@ -1,1 +1,2 @@
 Text added in test1 file
+Text added in test1 file in GIT
