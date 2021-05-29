@@ -1,2 +1,7 @@
 Text added in test1 file
+<<<<<<< Updated upstream
 Text added in test1 file in GIT
+=======
+
+Text added in test1 file before pull
+>>>>>>> Stashed changes
